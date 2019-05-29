@@ -1,5 +1,7 @@
 # DIP_FinalProject
 
+<b>Update (29/05/2019)</b>: added the folder Supersampling which contains an script that supersamples an image, and some input and output image examples.
+
 Title: Implementing and Comparing Anti-aliasing Algorithms.<br><br>
 Names: Danilo Marques Araujo dos Santos (8598670)<br>
        Alex Sander Ribeiro da Silva (9779350)<br><br>
