@@ -1,5 +1,4 @@
-# Final Project - SCC0251
-# 2019-1
+# Image Processing - Final Project (2019-1)
 
 <b>Updates (29/05/2019)</b>
 <ul>
