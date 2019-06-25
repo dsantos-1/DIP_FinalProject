@@ -78,8 +78,8 @@ def areaAroundEdges(img, edge_mask, threshold, areaSize):
 	
 # Main function
 parser=argparse.ArgumentParser(description='Applies the edge detection algorithm to a colored image')
-parser.add_argument('ii_name', help='name of input image')
-parser.add_argument('aii_name', help='name of auxiliar input image')
+parser.add_argument('ii_name', help='name of input image (1440p)')
+parser.add_argument('aii_name', help='name of auxiliar input image (720p)')
 parser.add_argument('--threshold', '-t', type=float, help='threshold')
 args=parser.parse_args()
 
