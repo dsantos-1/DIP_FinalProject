@@ -3,7 +3,9 @@
 <b>Update (24/06/2019)</b>
 <ul>
        <li><p align="justify">Added the folder <b>MSAA</b> which contains an script that applies the MSAA algorithm to an input image;</p></li>
-       <li><p align="justify">Added some output pictures from the <b>MSAA</b> algorithm, available at the folders <a href="Images/CSGO">CSGO</a>, <a href="Images/Minecraft">Minecraft</a> and <a href="Images/Paladins">Paladins</a>;</p></li>
+       <li><p align="justify">Added the folder <b>FXAA</b> which contains an script that applies the FXAA algorithm to an input image;</p></li>
+       <li><p align="justify">Added some output pictures from the <b>MSAA</b> and the <b>FXAA</b> algorithm, available at the folders <a href="Images/CSGO">CSGO</a>, <a href="Images/Minecraft">Minecraft</a> and <a href="Images/Paladins">Paladins</a>;</p></li>
+       <li><p align="justify">Added the folder <a href="Images/Montages">Montages</a> that contains the output of different AA algorithms for the same scene, for comparison purposes;</p></li>
        <li><p align="justify">Added the pdf file for the final report.</a></p></li>
 </ul>
 <br>
